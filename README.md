@@ -4,6 +4,10 @@
 
 Mapty is a web application that allows users to track their workouts by clicking on a map. It supports running and cycling activities, storing workout details like distance, duration, cadence (for running), and elevation gain (for cycling).
 
+## Live Demo
+
+[Click here to try it out!](https://bankist-app-blue.vercel.app/)
+
 ## Features
 
 - **Interactive Map**: Click anywhere on the map to log a new workout.
