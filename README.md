@@ -33,4 +33,4 @@ Mapty is a web application that allows users to track their workouts by clicking
 
 ## License
 
-This project is for learning purposes only. Do not use it to teach or claim it as your own. See the original license terms in the sidebar of the app.
+© Copyright by Jonas Schmedtmann. 
