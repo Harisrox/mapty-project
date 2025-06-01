@@ -6,7 +6,7 @@ Mapty is a web application that allows users to track their workouts by clicking
 
 ## Live Demo
 
-[Click here to try it out!](https://bankist-app-blue.vercel.app/)
+[Click here to try it out!](https://mapty-project-theta.vercel.app/)
 
 ## Features
 
